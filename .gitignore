@@ -1,0 +1,28 @@
+# ---- Python basics ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.db
+
+# ---- Virtual environments ----
+.venv/
+env/
+venv/
+ENV/
+
+# ---- Environment / secrets ----
+.env
+.env.*
+*.key
+*.pem
+
+# ---- OS cruft ----
+.DS_Store
+Thumbs.db
+
+# ---- VS Code settings ----
+.vscode/
+.history/
